@@ -1,5 +1,8 @@
 package com.epam.training;
 
+import org.mentoring.Bye;
+import org.mentoring.Hello;
+
 /**
  * Hello world!
  */

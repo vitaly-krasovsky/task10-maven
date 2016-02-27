@@ -1,0 +1,11 @@
+For example:
+
+---maven---
+mvn clean install
+cd module-runner/target
+java -jar module-runner-1.0-SNAPSHOT-jar-with-dependencies.jar
+
+---gradle---
+gradle build
+cd module-runner/build/libs
+java -jar module-runner-1.0-SNAPSHOT.jar
